@@ -34,6 +34,11 @@ html, body {
     padding: 0;
 }
 
+img {
+    width: 1150px;
+    height: 130px;
+}
+
 button {
     color:#FDFDFD;
     background-color: #AC485A;
