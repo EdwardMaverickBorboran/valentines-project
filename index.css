@@ -37,6 +37,7 @@ html, body {
 img {
     width: 970px;
     height: 110px;
+    margin: 20px 0px;
 }
 
 button {
