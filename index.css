@@ -37,7 +37,7 @@ html, body {
 img {
     width: 970px;
     height: 110px;
-    margin: 20px 0px;
+    margin: 10px 0px;
 }
 
 button {
@@ -70,6 +70,14 @@ iframe {
     align-items: center;
     flex-direction: column;
     height: 100vh;
-    font-family: 'Andale Mono', Monospace;
-    font-size: 25px;
   }
+
+.thank-you-image {
+    width: 500px;
+    height: 300px;
+}
+
+.ty-text-image {
+    width: 970px;
+    height: 110px;
+}
