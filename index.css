@@ -20,7 +20,7 @@ html, body {
     flex-direction: column;
     height: 100vh;
     font-family: 'Andale Mono', Monospace; 
-    font-size: 25px;
+    font-size: 40px;
     margin: 0 auto;
 }
 
@@ -51,8 +51,8 @@ button:hover {
 }
 
 iframe {
-    width: 700px;
-    height: 450px;
+    width: 780px;
+    height: 500px;
     border: 0;
     padding: 5px;
     border-radius: 20px;
@@ -65,4 +65,5 @@ iframe {
     flex-direction: column;
     height: 100vh;
     font-family: 'Andale Mono', Monospace;
+    font-size: 25px;
   }
